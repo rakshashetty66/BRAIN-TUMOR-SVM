@@ -51,7 +51,7 @@ Cross-validation: Perform cross-validation to fine-tune hyperparameters for bett
 
 
 Requirements
-Python 3.x
-Jupyter Notebook
-Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, OpenCV, Pillow
-Use Scikit-learn's train_test_split to perform this split.
+1. Python 3.x
+2. Jupyter Notebook
+3. Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, OpenCV, Pillow
+4. Use Scikit-learn's train_test_split to perform this split.
