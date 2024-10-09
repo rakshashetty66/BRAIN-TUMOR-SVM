@@ -1,9 +1,10 @@
-Brain Tumor Detection and Classification Using Support Vector Machine (SVM)
-Project Overview
+# Brain Tumor Detection and Classification Using Support Vector Machine (SVM)
+
+# Project Overview
 This project aims to detect and classify brain tumors using MRI images. We use Support Vector Machine (SVM) for classification, a machine learning algorithm particularly effective for binary classification problems. This project involves image preprocessing, feature extraction, and SVM model training to classify MRI images as either tumor-positive or tumor-negative.
 The entire process is implemented in a Jupyter Notebook for ease of explanation, reproducibility, and visualization.
 
-Steps
+# Steps
 1. Install Required Libraries
 Ensure you have the following Python libraries installed:
 pip install numpy pandas scikit-learn matplotlib seaborn opencv-python pillow
@@ -48,9 +49,7 @@ Feature Engineering: Use image processing techniques like edge detection or hist
 Deep Learning: Consider using CNNs (Convolutional Neural Networks) for more accurate results.
 Cross-validation: Perform cross-validation to fine-tune hyperparameters for better performance.
 
-
-
-Requirements
+# Requirements
 1. Python 3.x
 2. Jupyter Notebook
 3. Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, OpenCV, Pillow
